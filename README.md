@@ -1,4 +1,4 @@
-# 🎨 Sorting Algorithm Visualizer (Dark Mode)
+# 🎨 Sorting Algorithm Visualizer
 
 A beautiful, real-time sorting algorithm visualizer with a modern dark theme. Watch various sorting algorithms come to life with color-coded comparisons, swaps, and detailed statistics.
 
