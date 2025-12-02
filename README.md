@@ -42,7 +42,7 @@ uv sync
 
 Run the script:
 ```bash
-uv run python realtime_sort_visualizer.py
+uv run python main.py
 ```
 
 Then select an algorithm from the menu:
