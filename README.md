@@ -29,7 +29,7 @@ The visualizer displays bars representing array elements, with colors changing d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/oddava/sorting-visualizer.git
+git clone https://github.com/oddava/visual-sorting.git
 cd sorting-visualizer
 ```
 
